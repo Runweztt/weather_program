@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.app{
+  min-height: 100vh;
+  background: #201f21;
+  display: grid;
+
+}
+
